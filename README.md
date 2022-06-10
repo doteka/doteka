@@ -1,9 +1,8 @@
-### Welcome to Kan9_6k GitHub 👋
+### Welcome to Kan9_6k GitHub 👋       
 
-## GANGNEUNG WONJU NATIONAL UNIVERSITY
-## COLLEGE OF SCIENCE & TECHNOLOGY 
-
-# PUZZLE
+ GANGNEUNG WONJU NATIONAL UNIVERSITY    <br>
+ COLLEGE OF SCIENCE & TECHNOLOGY     <br>
+### KANG DONGJUN
 <!--
 **doteka/doteka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
