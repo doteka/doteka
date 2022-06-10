@@ -1,5 +1,9 @@
 ### Welcome to Kan9_6k GitHub 👋
 
+## GANGNEUNG WONJU NATIONAL UNIVERSITY
+## COLLEGE OF SCIENCE & TECHNOLOGY 
+
+# PUZZLE
 <!--
 **doteka/doteka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
