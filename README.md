@@ -2,7 +2,7 @@
 
  GANGNEUNG WONJU NATIONAL UNIVERSITY    <br>
  COLLEGE OF SCIENCE & TECHNOLOGY     <br>
- Department of Computer Science & Engineering <br>
+ DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING <br>
 
 ### KANG DONGJUN
 <!--
