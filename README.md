@@ -6,7 +6,7 @@
 ### 🧩 DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING 🧩<br>
 
 
-### 🧩　　　　　　　<img style="width: 100px; float: left;" src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=white"/>　　　<img style="width: 100px; float: left;" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>　&nbsp;&nbsp;&nbsp;🧩
+### 🧩　　　　　　　<img style="width: 100px; float: left;" src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=white"/>　　　<img style="width: 100px; float: left;" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>　　　&nbsp;&nbsp;&nbsp;🧩
 
 ### 🧩　　　　　　　　　　　🥔 ➡ 👨‍💻 　　　　　　　　　&nbsp;&nbsp;&nbsp;🧩<br>
 ### 🧩&nbsp;&nbsp;&nbsp;말하는 감자에서 능력있는 개발자로 성장하고 있습니다&nbsp;&nbsp;🧩
