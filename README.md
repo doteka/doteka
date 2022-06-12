@@ -1,8 +1,8 @@
 ### 🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩🧩
 ### 🧩　　　　　　Welcome to Kan9_6k GitHub 👋                                                  &nbsp;🧩
 
-### 🧩　　GANGNEUNG WONJU NATIONAL UNIVERSITY &nbsp;&nbsp;&nbsp; 🧩  <br>
-### 🧩　　　　COLLEGE OF SCIENCE & TECHNOLOGY 　　　&nbsp;&nbsp;🧩    <br>
+### 🧩　　GANGNEUNG WONJU NATIONAL UNIVERSITY &nbsp;&nbsp;&nbsp; 🧩<br>
+### 🧩　　　　COLLEGE OF SCIENCE & TECHNOLOGY 　　　&nbsp;&nbsp;🧩<br>
 ### 🧩 DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING 🧩<br>
 
 
