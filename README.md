@@ -1,4 +1,4 @@
-### Welcome to Kan9_6k GitHub 👋                                                  &nbsp;
+### Welcome to Kan9_6j GitHub 👋                                                  &nbsp;
 
 ### 🖥 Department of Computer Science & Engineering, College of Science and Technology
 ### 🏫 Gangneung-Wonju National University
