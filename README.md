@@ -1,6 +1,7 @@
 ### Welcome to Kan9_6k GitHub 👋                                                  &nbsp;
 
-### 🏫 Department of Computer Science & Engineering, College of Science and Technology, Gangneung-Wonju National University
+### 🖥 Department of Computer Science & Engineering, College of Science and Technology
+### 🏫 Gangneung-Wonju National University
 ### 👨‍🎓 2020.03.01 ~ 2024.02.22.      
 <!--
 **doteka/doteka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
