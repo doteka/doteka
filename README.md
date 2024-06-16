@@ -1,8 +1,8 @@
-### Welcome to Kan9_6j GitHub 👋                                                  &nbsp;
+### Welcome to Kan9_6j GitHub 👋                                                  &nbsp;&nbsp;
 
 ### 🖥 Department of Medical Device Convergence Engineering, General Graduate School
 ### 🏫 Gangneung-Wonju National University
-### 👨‍🎓 2024.03.01 ~        &nbsp;
+### 👨‍🎓 2024.03.01 ~        &nbsp;&nbsp;
 
 
 ### 🖥 Department of Computer Science & Engineering, College of Science and Technology
