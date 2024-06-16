@@ -1,8 +1,13 @@
 ### Welcome to Kan9_6j GitHub 👋                                                  &nbsp;
 
+### 🖥 Department of Medical Device Convergence Engineering, General Graduate School
+### 🏫 Gangneung-Wonju National University
+### 👨‍🎓 2024.03.01 ~        &nbsp;
+
+
 ### 🖥 Department of Computer Science & Engineering, College of Science and Technology
 ### 🏫 Gangneung-Wonju National University
-### 👨‍🎓 2020.03.01 ~ 2024.02.22.      
+### 👨‍🎓 2020.03.01 ~ 2024.02.22.       &nbsp;
 <!--
 **doteka/doteka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
