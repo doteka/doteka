@@ -1,4 +1,4 @@
-### Welcome to Kan9_6j GitHub 👋                                                  &nbsp;&nbsp;
+### Welcome to Easton GitHub 👋                                                  &nbsp;&nbsp;
 
 ### 🖥 Department of Medical Device Convergence Engineering, General Graduate School
 ### 🏫 Gangneung-Wonju National University
