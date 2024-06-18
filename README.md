@@ -1,6 +1,6 @@
 <div align=center>
 
-<!-- ### Welcome to Easton GitHub 👋                                                  &nbsp;&nbsp;    -->
+<!-- ### Welcome to Easton GitHub 👋 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=000000&random=false&width=435&lines=Welcome+to+Easton+GitHub+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 
