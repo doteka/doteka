@@ -1,10 +1,11 @@
-### Welcome to Easton GitHub 👋                                                  &nbsp;&nbsp;
+### Welcome to Easton GitHub 👋                                                  &nbsp;&nbsp;    
 
-   
+  
 ### 🖥 Department of Medical Device Convergence Engineering, General Graduate School
 ### 🖥 Department of Computer Science & Engineering, College of Science and Technology
-### 🏫 Gangneung-Wonju National University
-<br/>
+### 🏫 Gangneung-Wonju National University  
+
+  
 ### E: easton@gwnu.ac.kr
 <!--
 **doteka/doteka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
